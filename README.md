@@ -20,7 +20,7 @@ The application's pipeline structure is defined in `pipeline.c`, with data struc
 - `struct pipeline_stage`: Manages the semaphores, queue, and thread information for each stage.
 - `struct work_item`: Represents the work unit, carrying image information through the pipeline.
 
-## 🚀📦  Execution Guide
+## 🚀📦 Execution Guide
 To execute iEffect, configure the environment and run the application as follows:
 
 bash
