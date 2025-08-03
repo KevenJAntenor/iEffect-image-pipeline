@@ -14,7 +14,7 @@ Each stage is capable of running multiple threads, optimizing throughput and res
 - Semaphore mechanisms to regulate queue sizes and ensure stability.
 - Modular pipeline code, reusable for different contexts.
 
-## Getting Started
+## 📖 Getting Started
 The application's pipeline structure is defined in `pipeline.c`, with data structures in `pipeline.h`, including:
 - `struct pipeline`: Defines the treatment stages.
 - `struct pipeline_stage`: Manages the semaphores, queue, and thread information for each stage.
