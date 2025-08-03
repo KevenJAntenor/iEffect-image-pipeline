@@ -3,7 +3,7 @@
 ## Project Overview
 iEffect is a high-performance image processing application capable of applying a variety of effects to large sets of images efficiently. By utilizing a multi-threaded pipeline structure, the application enhances processing speed significantly.
 
-## Pipeline Structure
+## 🪜 Pipeline Structure
 The processing pipeline consists of three stages, operating in a FIFO queue manner:
 
 Each stage is capable of running multiple threads, optimizing throughput and resource management.
