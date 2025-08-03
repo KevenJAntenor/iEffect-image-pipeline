@@ -38,7 +38,7 @@ ieffect --input tests/cat.png --output cat-serial.png -m -n 4
 time ieffect --input data/ --output results/
 time ieffect --input data/ --output results/ -m -n 4
 
-## Compilation
+## ⚙️ Compilation
 
 apt-get install libpng-dev
 
