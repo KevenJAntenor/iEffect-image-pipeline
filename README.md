@@ -8,7 +8,7 @@ The processing pipeline consists of three stages, operating in a FIFO queue mann
 
 Each stage is capable of running multiple threads, optimizing throughput and resource management.
 
-## Features
+## ✨ Features
 - Multi-threaded processing for load, effect application, and save stages.
 - FIFO queues to manage task order and memory consumption.
 - Semaphore mechanisms to regulate queue sizes and ensure stability.
