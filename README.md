@@ -28,7 +28,7 @@ bash
 # 🛠️🌍📂 Set up the environment for the executable path
 source env.sh
 
-# Process a single image with the default settings
+# 🧠🖼️✅ Process a single image with the default settings
 ieffect --input tests/cat.png --output cat-serial.png
 
 # Process a single image using a 4-thread pipeline
