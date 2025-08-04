@@ -31,7 +31,7 @@ source env.sh
 # 🧠🖼️✅ Process a single image with the default settings
 ieffect --input tests/cat.png --output cat-serial.png
 
-# Process a single image using a 4-thread pipeline
+# 🖼️🔄🧵 Process a single image using a 4-thread pipeline
 ieffect --input tests/cat.png --output cat-serial.png -m -n 4
 
 # Performance testing for serial versus pipeline modes (download images first if needed)
