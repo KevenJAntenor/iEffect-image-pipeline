@@ -34,7 +34,7 @@ ieffect --input tests/cat.png --output cat-serial.png
 # 🔄🧵 Process a single image using a 4-thread pipeline
 ieffect --input tests/cat.png --output cat-serial.png -m -n 4
 
-# Performance testing for serial versus pipeline modes (download images first if needed)
+# 🧪⏱️ Performance testing for serial versus pipeline modes (download images first if needed)
 ./data/fetch.sh
 time ieffect --input data/ --output results/
 time ieffect --input data/ --output results/ -m -n 4
