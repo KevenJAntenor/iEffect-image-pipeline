@@ -25,7 +25,7 @@ To execute iEffect, configure the environment and run the application as follows
 
 bash
 
-# 🛠️🌍📂 Set up the environment for the executable path
+# 🛠️📂 Set up the environment for the executable path
 source env.sh
 
 # 🧠🖼️✅ Process a single image with the default settings
