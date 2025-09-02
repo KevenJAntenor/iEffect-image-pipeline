@@ -21,7 +21,7 @@ The application's pipeline structure is defined in `pipeline.c`, with data struc
 - `struct work_item`: Represents the work unit, carrying image information through the pipeline.
 
 ## 🚀📦 Execution Guide
-To execute iEffect, onfigure the environment and run the application as follows:
+To execute iEffect, configure the environment and run the application as follows:
 
 bash
 
